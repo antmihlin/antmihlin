@@ -9,7 +9,8 @@ I can't know everything. Therefore I am not interested in the interviews of a ki
 
 I'm a front-end developer with **ten years** mixed **experience** in different web technologies. 
 Now I am working mostly with Angular, Vue, Node, MongoDB. 
-Now looking to go in the direction of modern and performant frameworks such as **React, Vue, Solid**, etc.
+Looking to go in the direction of modern and performant frameworks such as **React, Vue, Solid**, etc.
+Also would be happy to aquire more experience in backend: Go, NodeJs, etc.
 
   
 
