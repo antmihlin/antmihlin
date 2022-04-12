@@ -1,7 +1,7 @@
 ## Love coding and learning
 
 Front end world is so huge and changing every minute. Any technology can be **learned when it's needed**. 
-I can't know everything. Therefore I am not interested in the interviews of a kind "we will find the spot to reject you because you didn't work with this function/library".
+I can't know everything. Therefore I am constantly learning.
 
   
 
@@ -15,7 +15,7 @@ Also would be happy to aquire more experience in backend: Go, NodeJs, etc.
   
 
 I consider myself as a team player. Worked in a variety of environments such as corporate as well as startup. 
-Have experience in large **multinational and remote teams**. Worked in different roles such as regular developer, senior developer and teamlead.
+Have experience in large **multinational and remote teams**. Worked in different roles such as developer, senior developer and teamlead.
 
   
 ## Projects
