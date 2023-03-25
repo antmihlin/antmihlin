@@ -9,14 +9,6 @@ I can't know everything. Therefore I am constantly learning.
 
 I'm a front-end developer with **ten years** mixed **experience** in different web technologies. 
 Now I am working mostly with Angular, Vue, Node, MongoDB. 
-Looking to go in the direction of modern and performant frameworks such as **React, Vue, Solid**, etc.
-Also would be happy to aquire more experience in backend: Go, NodeJs, etc.
-
-  
-
-I consider myself as a team player. Worked in a variety of environments such as corporate as well as startup. 
-Have experience in large **multinational and remote teams**. Worked in different roles such as developer, senior developer and teamlead.
-
   
 ## Projects
 
@@ -34,7 +26,7 @@ During my career, I developed different projects such as:
 
   
 
-In parallel to my main work, I'm working on a non-profit **side project** which is a social network for fiction writers. The project was written from scratch with MEAN stack technologies. At the moment the project contains already **23k users**.
+In parallel to my main work, I'm working on a non-profit **side project** which is a social network for fiction writers. The project was written from scratch with MEAN stack technologies. At the moment the project contains already **45k users**.
 
   
 
@@ -55,4 +47,4 @@ Here are the links:
 [Twitter](https://twitter.com/AntonMihlin)
 
   
-Side project: [Fanficus](http://fanficus.com/)
+Pet project: [Fanficus](http://fanficus.com/)
