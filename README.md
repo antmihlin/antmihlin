@@ -1,61 +1,70 @@
-## Love coding and learning
+## Passionate About Coding and Continuous Learning
 
-Front end world is so huge and changing every minute. Therefore all the time I find something new to learn.
-  
+I am a front-end developer with **11 years of diverse experience** in web technologies. My current focus is on **React/Next.js**, **Vue.js**, **Node.js**, **Angular**, and **MongoDB**.
 
-## Front-end developer
+The front-end world is vast and ever-evolving. Staying ahead means constantly learning and discovering new technologies, and I thrive on that challenge. 
 
-I'm a front-end developer with **11 years** of mixed **experience** in different web technologies. 
-Now I am working mostly with React/NextJs, VueJs, NodeJs, Angular, and MongoDB.
+---
 
-## Hobbies
-Except for the cool work I am doing there is a lot of stuff a love doing:
-- Road cycling (on the way to increase my FTP) in northern Italy
-- Mountain biking
-- Skiing
-- Reading poetry
-  
-## Projects
+## Projects  
 
-During my career, I developed different projects such as:  
--No-code drag&drop **website builder** with an automatic responsive layout and exporting options.  
--**Streaming web app** for teachers where teachers stream video or presentations and in parallel gather feedback via polls and comments.
+Throughout my career, I have developed a variety of impactful projects, including:  
 
--**Learning Progress app** is used by thousands of teachers across schools in Italy.
+- **No-Code Website Builder**  
+  A drag-and-drop platform with automatic responsive layouts and export options, empowering users to create websites effortlessly.
 
--**Digital signature** web app where businesses can create interactive documents and receive them signed by clients. The app is used by banks and insurance companies in Israel.
+- **Social Network for Writers**  
+  A platform where users share fiction, stories, and books. Features include blogging, writing tools, user profiles, and reading statistics, fostering a creative writing community.  
 
--**Social network for writers**. Where people share their fiction stories, and books. Like any social network, it has likes, comments, blogging, profile, writing tools, user reading statistics, etc.
+- **Streaming Web App for Teachers**  
+  A tool enabling teachers to stream video or presentations while collecting real-time feedback through polls and comments.  
 
--**Smart buildings** management software allows engineers to keep buildings safe for people as well as energy efficient.
-  
+- **Learning Progress App**  
+  Widely used by thousands of teachers across Italian schools to track and manage student learning outcomes.  
 
-In parallel to my main work, I'm working on a **pet project** which is a social network for fiction writers. The project was written from scratch with MEAN stack technologies. At the moment the project contains already **45k users**.
-  
+- **Digital Signature Web App**  
+  A secure platform for creating interactive documents and receiving client signatures, utilized by banks and insurance companies in Israel.  
 
-In my free time, I'm **writing tech articles** on topics such as JavaScript, Angular, frontend, and participating in tech creators group among the brightest minds in the FrontEnd industry such as GDEs, MVPs, Github stars. My recent articles clearly demonstrate the development skills and the approach I am using. At the moment preparing myself to tech talks on the topics of Accessibility and performance, because these topics are widely ignored by developers.
+- **Smart Building Management Software**  
+  A solution designed for engineers to maintain building safety and energy efficiency.  
 
+In addition, I am working on my **pet project**, [Fanficus](http://fanficus.com/) — a social network for fiction writers. Built from scratch using the MEAN stack, the platform now hosts a thriving community of **64,000 users**.
 
-## Few languages I know
-- English
-- Italian
-- Russian
-- Ukrainian
-- Hebrew
-- JavaScript/Typescript :)
-  
+---
 
-Here are the links:
+## Sharing Knowledge  
 
-[Github](https://github.com/antmihlin)
+I love sharing my expertise by writing **tech articles** on JavaScript, Angular, and front-end development. I am an active participant in a **tech creators group** alongside GDEs, MVPs, and GitHub stars. My articles highlight my development approach and problem-solving skills.  
 
-[Dev.to](https://dev.to/antmik)
+---
 
-[Medium](https://medium.com/@antmihlin)
+## Languages  
 
-[LInkedIn](https://www.linkedin.com/in/anton-mihlin-51476b54/)
+I am fluent in:  
+- **English**  
+- **Italian**  
+- **Russian**  
+- **Ukrainian**  
+- **Hebrew**  
+- And, of course, **JavaScript/TypeScript** 😊  
 
-[Twitter](https://twitter.com/AntonMihlin)
+---
 
-  
-Pet project: [Fanficus](http://fanficus.com/)
+## Hobbies  
+
+Beyond my work, I immerse myself in activities that fuel my creativity and energy:  
+- **Road cycling** in the breathtaking landscapes of northern Italy, aiming to improve my FTP.  
+- **Mountain biking** through rugged trails.  
+- **Skiing** both on-piste and freeride.  
+- Reading and finding inspiration in **poetry**.  
+
+---
+
+## Connect With Me  
+
+- [Personal blog](https://anton-m.dev/)
+- [GitHub](https://github.com/antmihlin)  
+- [Dev.to](https://dev.to/antmik)  
+- [Medium](https://medium.com/@antmihlin)  
+- [LinkedIn](https://www.linkedin.com/in/anton-mihlin-51476b54/)  
+- [Twitter](https://twitter.com/AntonMihlin)  
